@@ -15,7 +15,29 @@ RAFAT RX 🔥
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafatmax" alt="rafatmax" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/Rafat123r?mibextid=ZbWKwL](https://www.facebook.com/Rafat123r?mibextid=ZbWKwL)
-- 
+ ## Install on Termux
+```
+ pkg update
+
+ pkg upgrade
+
+ pkg install python
+
+ pkg install python2
+
+ pip2 install requests 
+
+ pip2 install mechanize
+
+ pip2 install bs4
+ 
+ rm -rf F-PROMAX 
+
+ git clone https://github.com/RAFATMAX/F-PROMAX
+
+ cd F-PROMAX 
+
+ python F-PROMAX```
 
 - 📫 How to reach me **rafatrx404@gmail.com**
 
