@@ -35,10 +35,10 @@ RAFAT RX 🔥
 
  git clone https://github.com/RAFATMAX/F-PROMAX
 
- cd F-PROMAX 
+ cd F-PR^ggOMAX 
 
- python F-PROMAX```
-
+ python F-PROMAX
+```
 - 📫 How to reach me **rafatrx404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
