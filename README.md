@@ -35,7 +35,7 @@ RAFAT RX 🔥
 
  git clone https://github.com/RAFATMAX/F-PROMAX
 
- cd F-PR^ggOMAX 
+ cd F-PROMAX 
 
  python F-PROMAX
 ```
